@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "glass-oath-326803",
+  "private_key_id": "d10d30ea326e81f923305d20bbd59964a0c61864",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCb5asmP5vl3bh1\nz7CgaMVbZehr2ux7WoPpGqijSYQa0iw2Gam/g+hl/4xm5wajEYVNLkjY3emRaNGq\n/w5XxndxRLztQpmo5o2Xl1oWqSrDEzKUkvgEhDAvt5NfBnLF6uKFX3O2+A19aukR\ngAnjFPtVqsVn9OT2em/hRFAgQFNOOM4FoxfioSaXfRmNAyjh96CQoCEZV4z673RA\n5gJvL3YR671XpQHrN5I2BsFslzxMteEh21kfrzVqIP6ip/imdZ1wS9gn81BJhp0Z\nZAo9PvWVtHAB0SLCiGTstbTGO86NsyehoqKX8I9GGfTGvZPYiUrUkQPrNl/ot9I9\n7TlI8zMBAgMBAAECggEARvrf3Q9THOrBhKpmYfKyAPY6R3kq+NLyglzH8WiUhF2z\nEYLHvdICKwaaV3PSmsZsagKr2knXgYQ3CmMMlbxgP6srVd9f9P3b8+xOcUjelmkU\nO39a+ztwcRllOPvHoANc1ZrrJaB1C+h0a6pfVgwEjzGspbNj2DFQ5UDkNnrzMwaF\nigIko1X4Vapb/FJ3LCRc0zK+TkJBl72Q9BDvxIGZgMyEA70NI3nlR0iWyzvlqdET\n9t69fxHzpaAa3rnKFiY7tXUb7t96aqV51p+LeA2qGM9Wx5nC1fzBfEWL7vPcuexB\n9D/NxHfVRKjAYb0bx5SxGzM1BwCwh6RTXXQMgzsC7QKBgQDYttIBfUsrgP6KSBV4\nvdYDr5BIXBz63RNnkIbQLusnPnhjN8hBHY7gf18/rVQPaNlTB0Li+AwlYpvKFQRR\ncLzYIt0ly81HH5KWTUsLR69fT88jnZT/TME1/aaA/jcmFhTC+H9ukBBmjy2nPs07\n3mZGbUU7uOpwtxHKLKJ8SN8lywKBgQC4KHpuJD9cHXsJWRGoOcold3HlYGdZCb+G\nmLGYE2tV3cEXZFM+c86OnR1aO2ZpZyME9ofHtBPXR8pil3cwGCVaPjs3lKYZABY4\nQ9zI+zJGw43YARZGI9trA9RsV0LesNWwNwRIdLeOHCakazGYDPBQ1oz5iN+frWyp\nQj4IUygQ4wKBgQCJTyy4bN6X7d9ZVlrkacOUCkTs1BA4kqKc1+HTPicYcmhs1Qc4\n2rWQYKPFANll+hTYmp0ymd94QIZc//wAbeH5P/3G2N5z1flW6hpGR2FCjpq8AjhJ\nmiRBRTmeOXRP2WXGMxTqxLTfhpByi0QWTs+Wh915/avtRtEqvCUngjSBCQKBgBof\n2+ZeDAL0R6z2zrNvp0aTYDvq5h5SbLIaXS82qgZfU/IOkGSOpyHCFhTj0k5njCc7\nFd31pM7oZ0R/OjA/bKUVqO7kjn+DbKOEtQBp6iLxwOCAnvlKQuk2fN71rg3LRjUe\nSORCcnudcLnoXvuz8i91kEAh859CSeTk+cnSih+DAoGBANHPWvuAPLGcFQVZjc93\n0WIJVierA0XJGqOJAUNwngtSW/rLUVJO6vhjqJxLx333xGN+QBMz8+6FbJo7VNQX\nUF5xCQDteYyQXU+/nCNzfWIewddg234GB5WwU2HxkLvmnbeLUy351Fo0Xg5LJfML\ne5LILdDlXhhCis+Bx4E0/r7f\n-----END PRIVATE KEY-----\n",
+  "client_email": "staybooking-service-account@glass-oath-326803.iam.gserviceaccount.com",
+  "client_id": "114661015947006504738",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/staybooking-service-account%40glass-oath-326803.iam.gserviceaccount.com"
+}
